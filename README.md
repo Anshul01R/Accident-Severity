@@ -61,6 +61,17 @@ Methodology
 | Decision Trees         | 73%      |
 | Random Forest          | 75%      |
 
+# Traffic Accident Data Visualizations
+
+## Heatmap of Accidents
+This heatmap shows the density of road accidents across the United States:
+![Heatmap of Accidents](images/heatmap_accidents.png)
+
+## County-Wise Accident Clustering
+This scatter plot shows the spatial distribution of accidents categorized by counties:
+![County Accident Scatter Plot](images/scatter_plot_counties.png)
+
+
 
 # Key Findings:
 

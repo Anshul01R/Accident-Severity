@@ -54,17 +54,13 @@ Methodology
 
 # Results
 
-Accuracy Scores:          
+| Model                  | Accuracy |
+|------------------------|----------|
+| Logistic Regression    | 75%      |
+| K-Nearest Neighbors    | 74%      |
+| Decision Trees         | 73%      |
+| Random Forest          | 75%      |
 
-Model                                      Accuracy
-
-Logistic Regression                          75%
-  
-K-Nearest Neighbors                          74%
-
-Decision Trees                              ~73%
-
-Random Forest                                75%
 
 # Key Findings:
 

@@ -56,7 +56,7 @@ The dataset contains extensive details of road accidents that occurred in the Un
 | 46  | Nautical_Twilight     | Period of the day (day or night) based on nautical twilight.                                                       | Yes      |
 | 47  | Astronomical_Twilight | Period of the day (day or night) based on astronomical twilight.                                                   | Yes      |
 
-Target Variable: Accident Severity (1 to 4).
+Target Variable: Accident Severity (1 to 3).
 
 # Methodology
 

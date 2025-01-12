@@ -136,3 +136,6 @@ This scatter plot shows the spatial distribution of accidents categorized by cou
           Enhance road infrastructure in high-accident areas.
 
           Adjust traffic rules during bad weather or high-risk times.
+
+[Watch Video](https://www.loom.com/share/386e8be0810240179da5337babad2ba8?sid=8f3b1af8-70c1-43be-9cbb-9c58b92157f6)
+

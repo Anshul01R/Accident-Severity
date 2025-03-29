@@ -113,7 +113,7 @@ This heatmap shows the density of road accidents across the United States:
 
 ## County-Wise Accident Clustering
 This scatter plot shows the spatial distribution of accidents categorized by counties:
-![County Accident Scatter Plot](images/IMG-1.png)
+![Country Accident Scatter Plot](images/IMG-1.png)
 
 
 
